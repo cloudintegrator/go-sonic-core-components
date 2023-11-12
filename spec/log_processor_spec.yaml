@@ -1,0 +1,4 @@
+name: "log-user"
+kind: "core:logger"
+configuration:
+  level: "INFO"
