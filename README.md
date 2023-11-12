@@ -14,3 +14,4 @@ This module contains the Interfaces that must be implemented in the component/co
 ### Go developer references
 - https://golang.cafe/blog/how-to-upgrade-golang-dependencies.html
 -  go get -u go.uber.org/zap
+-  go list -m -u all
